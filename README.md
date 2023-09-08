@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lea Nazarov</h1>
 <h3 align="center">A third year computer science student, with a creative mind and thinking outside the box 👨‍💻 Here you can see my projects and my works, I hope you enjoy 📝:)</h3>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.pnghd.pics/data/14/coding-gif-24.gif)">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leanaza&label=Profile%20views&color=0e75b6&style=flat" alt="leanaza" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=leanaza&label=Profile%20views&color=0e75b6&style=flat" alt="leanaza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FGulchinTaghizade&psig=AOvVaw3ow22cQViOfg7cU9FLPFDk&ust=1694269447326000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiXodabm4EDFQAAAAAdAAAAABAg)" /> </p>
 
 - 🌱 I’m currently learning **Computer Science at HIT, Israel**
 
