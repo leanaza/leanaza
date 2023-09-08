@@ -1,4 +1,4 @@
-
+<img src="https://github.com/leanaza/leanaza/blob/main/Welcome.jpg?raw=true">
 
 <h1 align="center">Hi 👋, I'm Lea Nazarov</h1>
 <h3 align="center">A third year computer science student, with a creative mind and thinking outside the box 👨‍💻 Here you can see my projects and my works, I hope you enjoy 📝:)</h3>
